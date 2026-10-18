@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Dataset (public, download from https://www2.aueb.gr/users/ion/data/lingspam_public.tar.gz)
+train-mails/
+test-mails/
+
+# my first tries, not part of the solution
+exploration.ipynb
